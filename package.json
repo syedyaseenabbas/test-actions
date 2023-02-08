@@ -1,0 +1,27 @@
+{
+	"name": "@gluestack/framework",
+	"version": "0.0.28",
+	"description": "Framework code of gluestack",
+	"main": "glue.js",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/gluestack/framework.git"
+	},
+	"keywords": [
+		"framework",
+		"gluestack"
+	],
+	"author": "Shivam Singhal",
+	"license": "ISC",
+	"dependencies": {
+		"colors": "^1.4.0",
+		"commander": "^9.4.1",
+		"lodash": "^4.17.21",
+		"shelljs": "^0.8.5",
+		"tsc": "^2.0.4"
+	},
+	"devDependencies": {
+		"@types/node": "^18.11.14"
+	}
+}
